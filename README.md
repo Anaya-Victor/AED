@@ -1,4 +1,4 @@
-Algoritmos y Estrucutura de Datos
+Algoritmos y Estructura de Datos
 
 Comisión: K1053
 
